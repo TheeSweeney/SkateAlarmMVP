@@ -1,2 +1,2 @@
 # SkateAlarmMVP
-Alarm with weather based triggers that will adjust its wakeup time to earlier times if it has rained.
+Alarm with weather based triggers that will adjust when it wakes you up depending on whether or not is has rained.
